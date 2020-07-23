@@ -1,9 +1,9 @@
 #This file defines all the categories you are using
 
 
-using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
+discord:
+  name: Discord
+  description: Alles rund ums Programmieren von Discordbots
 using-odin:
   name: Using Odin
   description: Welcome to Odin, time to get started
